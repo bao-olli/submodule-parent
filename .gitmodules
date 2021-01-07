@@ -4,3 +4,6 @@
 [submodule "submodule-child1"]
 	path = submodule-child1
 	url = https://github.com/bao-olli/submodule-child1.git
+[submodule "maika-sh-db-model"]
+	path = maika-sh-db-model
+	url = https://github.com/olli-ai/maika-sh-db-model.git
