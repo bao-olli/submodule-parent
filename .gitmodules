@@ -7,3 +7,6 @@
 [submodule "maika-sh-db-model"]
 	path = maika-sh-db-model
 	url = https://github.com/olli-ai/maika-sh-db-model.git
+[submodule "app/model"]
+	path = app/model
+	url = https://github.com/olli-ai/maika-sh-db-model.git
